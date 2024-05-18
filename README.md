@@ -25,7 +25,7 @@ A "PRAGM" é uma empresa fictícia especializada em soluções inovadoras de tec
 
 ## Pré-visualização
 
-[Inserir links para capturas de tela ou demonstrações do site, se aplicável]
+Pode acompanhar o projeto através desse link: https://marcelo826.github.io/projeto-Pragm/
 
 ## Como Contribuir
 
